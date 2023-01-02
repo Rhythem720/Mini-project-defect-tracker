@@ -1,0 +1,95 @@
+{
+  "Defects": [
+    {
+      "id": 101,
+      "Category": "UI"
+    },
+    {
+      "id": 102,
+      "Category": "FUNCTIONAL"
+    },
+    {
+      "id": 103,
+      "Category": "CHANGE REQUEST"
+    }
+  ],
+  "DefectDetails": [
+    {
+      "id": 1,
+      "description": "ABD",
+      "priority": 2,
+      "status": false,
+      "defectCategory": "UI",
+      "username": "rhythem"
+    },
+    {
+      "id": 2,
+      "description": "ABCDEFD",
+      "priority": 2,
+      "status": false,
+      "defectCategory": "UI",
+      "username": "rhythem720"
+    },
+    {
+      "description": "this is to vhange request",
+      "priority": "2",
+      "status": false,
+      "defectCategory": "FUNCTIONAL",
+      "id": 3,
+      "username": "rhythem"
+    },
+    {
+      "description": "this is the description",
+      "priority": "2",
+      "status": false,
+      "defectCategory": "FUNCTIONAL",
+      "id": 4,
+      "username": "rhythem720"
+    },
+    {
+      "description": "this is defect by anuj",
+      "priority": "2",
+      "status": false,
+      "defectCategory": "CHANGE REQUEST",
+      "username": "anuj",
+      "id": 5
+    }
+  ],
+  "RegisteredUsers": [
+    {
+      "id": 1,
+      "fullname": "Rhythem Malviya",
+      "email": "rhythe@gmail.com",
+      "username": "rhythem",
+      "password": "1234"
+    },
+    {
+      "username": "rhythem720",
+      "fullname": "Rhythem Malviya",
+      "email": "rhythemmalviya789@gmail.com",
+      "password": "4444",
+      "id": 3
+    },
+    {
+      "username": "anuj",
+      "fullname": "anuj solanaki",
+      "email": "anuj@gmail.com",
+      "password": "9876",
+      "id": 4
+    },
+    {
+      "username": "anuj",
+      "fullname": "Anuj Solanki",
+      "email": "anuj@gmail.com",
+      "password": "9876",
+      "id": 5
+    }
+  ],
+  "Admins": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "admin123"
+    }
+  ]
+}
